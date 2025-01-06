@@ -43,6 +43,13 @@ This code is linked to the research work [Fainsin et al. (2025)] for numerical s
 
 ## License
 This project is licensed under the MIT License.
+Copyright (c) 2025 Fainsin David
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software... 
+
+Additional Requirement:
+Any use or derivative work of this code must cite the following article:
+D. Fainsin et al., Entanglement routing with passive optics in real-world CV-networks, ArXiV(2025).
 
 ## Acknowledgements
 This   work   was   supported   by   the   European   Research Council under the Consolidator Grant COQCOoN (Grant No.  820079).
