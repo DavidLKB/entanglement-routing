@@ -6,7 +6,7 @@ This code is linked to the research work [Fainsin et al. (2025)] for numerical s
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/DavidLKB/entanglement-routing
    ```
 2. Navigate to the project directory:
    ```bash
