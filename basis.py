@@ -2,6 +2,8 @@ import numpy as np
 from scipy.linalg import expm
 from itertools import product
 
+# Adapted from https://github.com/CQuIC/pysme/blob/master/src/pysme/gellmann.py
+
 class Basis:
     def __init__(self, cluster, method = "Gell-Mann"):
         """
