@@ -1,0 +1,29 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Entanglement Routing Simulation
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: David
+    family-names: Fainsin
+    email: david.fainsin@lkb.upmc.fr
+    affiliation: Laboratoire Kastler Brossel
+  - given-names: Antoine
+    family-names: Debray
+    affiliation: Laboratoire Kastler Brossel
+    email: antoine.debray@lkb.upmc.fr
+    orcid: 'https://orcid.org/0009-0005-5099-2970'
+repository-code: 'https://github.com/DavidLKB/entanglement-routing'
+abstract: >-
+  This code is linked to the research work [Fainsin et al.
+  (2025)] for numerical simulation of entanglement routing
+  in real world cluster states.
+keywords:
+  - Entanglement Routing
+  - Continuous Variables Quantum Information
+  - Quantum Communication
+  - Graph States
